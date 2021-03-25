@@ -37,6 +37,7 @@ The majority are part of specializations by [DeepLearning.AI](https://www.deeple
 
 2. [TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
 
+Completing...
 
 3. [Natural Language Processing Specialization](https://www.coursera.org/specializations/natural-language-processing)
-
+Completing....
