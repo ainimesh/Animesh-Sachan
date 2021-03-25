@@ -30,6 +30,9 @@ I'm always keen to learn something new and update my knowledge base and I've tak
 The majority are part of specializations by [DeepLearning.AI](https://www.deeplearning.ai).
 
 1. [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
+<p align="center">
+  <img src="images/DL_Specialization_coursera.png" alt="Deep Learning Specialization" width="300"/>
+</p>
 
 
 2. [TensorFlow Developer Professional Certificate](https://www.deeplearning.ai/tensorflow-in-practice/)
