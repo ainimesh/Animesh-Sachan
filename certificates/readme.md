@@ -31,7 +31,7 @@ The majority are part of specializations by [DeepLearning.AI](https://www.deeple
 
 1. [Deep Learning Specialization](https://www.deeplearning.ai/deep-learning-specialization/)
 <p align="center">
-  <img src="images/DL_Specialization_coursera.png" alt="Deep Learning Specialization" width="300"/>
+  <img src="https://github.com/Animesh-NITKKR/Animesh-Sachan/blob/main/images/DL_Specialization_coursera.png" alt="Deep Learning Specialization" width="300"/>
 </p>
 
 
